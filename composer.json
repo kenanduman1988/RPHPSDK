@@ -1,5 +1,5 @@
 {
-    "name": "relictumblockchain/rphpsdk",
+    "name": "kenanduman/rphpsdk",
     "description": "A library for PHP that interacts with the relictum blockchain API",
     "license": "MIT",
     "type":   "library",
@@ -11,7 +11,7 @@
     ],
 
     "require": {
-        "php": "^7.3",
+        "php": "^7.3|^8.0",
         "guzzlehttp/guzzle": "^7.3"
     },
 	
